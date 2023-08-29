@@ -1,6 +1,6 @@
 # Information Gathering Tool for Pen Testers and Ethical Hackers
 
-This tool is designed to assist pen testers and ethical hackers in gathering information about a target system. With this tool, you can easily find information such as admin usernames and employees credentials.
+This tool is designed to assist pen testers and ethical hackers in gathering information about a target system. With this tool, you can easily find information such as admin usernames and employees email addresses.
 
 ## Getting Started
 
