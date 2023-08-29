@@ -5,6 +5,9 @@ import urllib.parse
 from collections import deque
 import re
 
+'''
+Additionally is that the tool can be used for urls scraping too
+'''
 user_url = str(input('[+] Enter Target URL To Scan: '))
 urls = deque([user_url])
 
